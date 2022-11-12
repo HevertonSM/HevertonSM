@@ -1,7 +1,7 @@
 Hi, I’m @HevertonSM or tatuzaom@gmail.com <br>
 Profile at linkedin.com/in/hevertonmatsubara<br><br>
 I’m interested in coding technologies<br>
-I’m currently learning HTML, CSS, JS, GIT, PHP<br><br>
+I’m currently learning and teaching HTML, CSS, JS, GIT, PHP<br><br>
 I’m looking to collaborate on startups tips<br><br>
 Reach me at @HevertonSM<br><br>
 🇧🇷 Business and Tech Solutions Analyst, Designer, Advisor, Consultant and 
